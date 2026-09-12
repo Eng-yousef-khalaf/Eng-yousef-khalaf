@@ -41,58 +41,59 @@ I focus on building projects that solve real problems rather than working only w
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 ### 📊 Data Analysis
 
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis
-- Data Validation
-- KPI Analysis
-- SQL Analysis
-- Excel Reporting
-- Business Insights
+<img src="https://img.shields.io/badge/Data%20Cleaning-4C6EF5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Preprocessing-4C6EF5?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-4C6EF5?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Data%20Validation-4C6EF5?style=flat-square"/>
+<img src="https://img.shields.io/badge/KPI%20Analysis-4C6EF5?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/SQL%20Analysis-4C6EF5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel%20Reporting-4C6EF5?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Business%20Insights-4C6EF5?style=flat-square"/>
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 ### 🤖 Machine Learning
 
-- Classification
-- Regression
-- Random Forest
-- Feature Engineering
-- Model Evaluation
-- Hyperparameter Tuning
-- Predictive Analysis
+<img src="https://img.shields.io/badge/Classification-F76707?style=flat-square"/>
+<img src="https://img.shields.io/badge/Regression-F76707?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Random%20Forest-F76707?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Feature%20Engineering-F76707?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Model%20Evaluation-F76707?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-F76707?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Predictive%20Analysis-F76707?style=flat-square"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 ### 📈 Business Intelligence
 
-- Power BI
-- DAX
-- Data Modeling
-- Interactive Dashboards
-- KPI Dashboards
-- Data Visualization
-- Performance Reporting
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/Data%20Modeling-F2C811?style=flat-square&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/Interactive%20Dashboards-F2C811?style=flat-square&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/KPI%20Dashboards-F2C811?style=flat-square&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/Data%20Visualization-F2C811?style=flat-square&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/Performance%20Reporting-F2C811?style=flat-square&logoColor=black"/>
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 ### ⚙️ Data Engineering
 
-- PostgreSQL
-- ETL & Data Pipelines
-- Docker
-- SQL
-- Data Warehousing
-- APIs
-- Scalable Data Solutions
+<img src="https://img.shields.io/badge/PostgreSQL-12B886?style=flat-square"/>
+<img src="https://img.shields.io/badge/ETL%20%26%20Pipelines-12B886?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Docker-12B886?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-12B886?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Data%20Warehousing-12B886?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/APIs-12B886?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scalable%20Solutions-12B886?style=flat-square"/>
 
 </td>
 </tr>
@@ -153,7 +154,7 @@ Machine Learning classification project using Python and Scikit-learn to analyze
 Data Analysis · Classification · Random Forest · Model Evaluation
 
 <a href="https://github.com/Eng-yousef-khalaf/heart-disease-prediction-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=heart-disease-prediction-project&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=heart-disease-prediction-project&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_color=667eea&hide_border=false" />
 </a>
 
 </td>
@@ -167,7 +168,7 @@ A smart learning analytics platform that analyzes learner performance using pres
 Machine Learning · Data Analysis · Python · Power BI
 
 <a href="https://github.com/Eng-yousef-khalaf/LingoGo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=LingoGo&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=LingoGo&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_color=667eea&hide_border=false" />
 </a>
 
 </td>
@@ -183,7 +184,7 @@ Computer vision project using TensorFlow/Keras and OpenCV to classify more than 
 Deep Learning · CNN · Computer Vision · Image Processing
 
 <a href="https://github.com/Eng-yousef-khalaf/dog-vision-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=dog-vision-project&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=dog-vision-project&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_color=667eea&hide_border=false" />
 </a>
 
 </td>
@@ -197,7 +198,7 @@ Machine learning regression project using Random Forest to predict bulldozer pri
 Regression · Feature Engineering · Random Forest · Python
 
 <a href="https://github.com/Eng-yousef-khalaf/bulldozer-price-prediction-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=bulldozer-price-prediction-project&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=bulldozer-price-prediction-project&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_color=667eea&hide_border=false" />
 </a>
 
 </td>
@@ -241,9 +242,9 @@ A complete data management platform for managing students, teachers, classes, su
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eng-yousef-khalaf&show_icons=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eng-yousef-khalaf&show_icons=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_color=667eea&hide_border=false" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-yousef-khalaf&layout=compact&langs_count=8&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-yousef-khalaf&layout=compact&langs_count=8&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_color=667eea&hide_border=false" />
 
 </div>
 
@@ -251,7 +252,7 @@ A complete data management platform for managing students, teachers, classes, su
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-yousef-khalaf&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-yousef-khalaf&background=0d1117&border=667eea&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=764ba2&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&hide_border=false" />
 
 </div>
 
