@@ -1,99 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Yousef%20Khalaf&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%C2%B7%20Machine%20Learning%20%C2%B7%20Data%20Engineering&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=220&section=header&text=Yousef%20Khalaf&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Pipeline%20Engineer%20%7C%20BI%20Developer&descSize=19&descAlignY=58" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Eng-yousef-khalaf/Eng-yousef-khalaf/main/profile_circle.png" width="190" />
+<img src="https://raw.githubusercontent.com/Eng-yousef-khalaf/Eng-yousef-khalaf/main/profile_circle.png" width="185" style="border-radius: 50%; border: 3px solid #3b82f6; margin-top: -20px;" />
 
-<h3>I turn data into insights, predictive models, dashboards, and practical data-driven solutions.</h3>
+<h3>Turning Complex Multi-Source Data into Reliable Pipelines, Relational Warehouses & Executive Decisions</h3>
 
-<a href="https://github.com/Eng-yousef-khalaf">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/yousef-khalaf-b1441326b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/yousef-khalafb1441326b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yousef2001kh44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Eng-yousef-khalaf">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=65&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:3b82f6&height=55&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Executive%20Profile&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-I'm a Software Engineer focused on **Data Science, Machine Learning, Data Analysis, and Business Intelligence**.
+I am a **Software Engineering graduate (Data Science & Machine Learning focus)** and **Data Analyst / Data Pipeline Engineer** dedicated to building automated, resilient data systems.
 
-I enjoy working with data from the first step — cleaning and understanding it — to the final step of building models, dashboards, and practical applications.
-
-My main interests are:
-
-- 📊 Data Analysis & Business Intelligence
-- 🤖 Machine Learning
-- 📈 Power BI & Data Visualization
-- 🐍 Python-based Data Solutions
-- 🗄️ SQL & Database Systems
-- ⚙️ Data Engineering
-- 🔗 Data-driven Applications and APIs
-
-I focus on building projects that solve real problems rather than working only with theoretical examples.
+My core expertise spans the entire data lifecycle:
+- 🌐 **Automated Ingestion**: Multi-source web scraping (with exponential backoff retries & session headers) replacing fragile one-off fixes with scalable collection pipelines.
+- 🧹 **Data Quality & Ontologies**: Corporate entity resolution, legal suffix removal (`Inc`, `LLC`, `plc`, `GmbH`), currency normalization (GBP/EUR/CAD to USD), and schema validation using Pydantic.
+- 🗄️ **Relational Modeling**: Kimball Star Schema data warehousing in SQL (`fact` & `dim` tables) with optimized analytical benchmarking views.
+- ⚡ **High-Speed Processing**: Leveraging both **Pandas** and vectorized **Polars** (Apache Arrow engine) for sub-millisecond quartile aggregations (Median, P25, P75).
+- 📊 **Executive BI & M365 Automation**: Production Power BI reporting with advanced DAX measures, interactive Streamlit analytics, and automated **Microsoft Power Automate** / **SharePoint List** workflow integration.
+- 🛠️ **Production Engineering**: Linux shell scripting (`set -euo pipefail`), automated Pytest suites (100% test pass rate), and GitHub Actions CI/CD workflows.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=65&text=%F0%9F%9A%80%20What%20I%20Do&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:3b82f6&height=55&text=%E2%AD%90%20Flagship%20Portfolio%20Project&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+<div align="center">
+
+### 💼 [DealPulse M&A: Automated Intelligence Pipeline & Valuation Platform](https://github.com/Eng-yousef-khalaf/dealpulse-mna-platform)
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Engine](https://img.shields.io/badge/Data%20Engine-Pandas%20%7C%20Polars-150458?style=flat-square&logo=pandas&logoColor=white)](https://pola.rs)
+[![Database](https://img.shields.io/badge/SQL%20Warehouse-Kimball%20Star%20Schema-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![BI](https://img.shields.io/badge/Reporting-Power%20BI%20%7C%20Streamlit-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Automation](https://img.shields.io/badge/Workflow-Power%20Automate%20%7C%20SharePoint-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://flow.microsoft.com/)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com)
+[![Testing](https://img.shields.io/badge/Tests-15%20Passing%20(100%25)-brightgreen?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org)
+
+</div>
+
+An institutional-grade market intelligence platform engineered for **Mid-Market Investment Banking** and **Private Equity Deal Sourcing** across UK, US, and European markets:
+
+- **Multi-Source Web Scraping**: Extracts transaction cards, regulatory filings (SEC 8-K / Companies House), and PE announcement wires with session management and retries.
+- **Ontology & Deduplication**: Cleans corporate legal suffixes, generates deterministic entity IDs, and maps diverse activities into standard IB sectors (*Enterprise SaaS, FinTech, MedTech, Cybersecurity, CleanTech*).
+- **Kimball Star Schema SQL**: Normalized dimensional warehouse (`fact_mna_deals`, `dim_companies`, `dim_sectors`, `dim_advisors`) with pre-compiled analytical views.
+- **Valuation Multiples Engine**: Vectorized calculation of EV/EBITDA and EV/Revenue percentiles (Median, P25, P75, IQR) with Z-score outlier detection.
+- **Polars vs. Pandas Engine**: Native Polars sub-millisecond aggregations benchmarking zero-copy memory speedups.
+- **Power Automate & SharePoint**: Adaptive Card payloads for marquee deals ($75M+) with automated SharePoint List feed synchronization.
+- **Executive Power BI & Streamlit**: Curated star-schema datasets with pre-calculated DAX measures and live interactive screener.
+- **Production Automation**: Linux Bash runner (`run_pipeline.sh`) and scheduled daily GitHub Actions ETL matching London market open.
+
+👉 **[Explore Full DealPulse Repository & Documentation →](https://github.com/Eng-yousef-khalaf/dealpulse-mna-platform)**
+
+---
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:3b82f6&height=55&text=%F0%9F%93%8A%20Machine%20Learning%20%26%20Analytics%20Projects&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 📊 Data Analysis
-
-<img src="https://img.shields.io/badge/Data%20Cleaning-4C6EF5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Preprocessing-4C6EF5?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-4C6EF5?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Data%20Validation-4C6EF5?style=flat-square"/>
-<img src="https://img.shields.io/badge/KPI%20Analysis-4C6EF5?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/SQL%20Analysis-4C6EF5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Excel%20Reporting-4C6EF5?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Business%20Insights-4C6EF5?style=flat-square"/>
+### ❤️ [Heart Disease Risk Classification](https://github.com/Eng-yousef-khalaf/heart-disease-prediction-project)
+Clinical analytics and predictive machine learning using Python, Scikit-Learn, and Pandas.
+- **Key Techniques**: Exploratory Data Analysis (EDA), Correlation Heatmaps, Feature Importance, Random Forest & Logistic Regression benchmarks.
+- **Deliverables**: Comprehensive classification metrics, ROC-AUC curves, and clinical risk evaluation.
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🤖 Machine Learning
-
-<img src="https://img.shields.io/badge/Classification-F76707?style=flat-square"/>
-<img src="https://img.shields.io/badge/Regression-F76707?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Random%20Forest-F76707?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Feature%20Engineering-F76707?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Model%20Evaluation-F76707?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-F76707?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Predictive%20Analysis-F76707?style=flat-square"/>
+### 📚 [LingoGo - Learning Analytics Platform](https://github.com/Eng-yousef-khalaf/LingoGo)
+Educational data analytics and machine learning suite evaluating student learning trajectories.
+- **Key Techniques**: Feature Engineering, Performance Classification, Serialized Model Deployment (`.pkl`).
+- **Deliverables**: Predictive scores, performance tracking dashboards, and interactive learning insights.
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### 📈 Business Intelligence
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Data%20Modeling-F2C811?style=flat-square&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Interactive%20Dashboards-F2C811?style=flat-square&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/KPI%20Dashboards-F2C811?style=flat-square&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Data%20Visualization-F2C811?style=flat-square&logoColor=black"/><br>
-<img src="https://img.shields.io/badge/Performance%20Reporting-F2C811?style=flat-square&logoColor=black"/>
+### 🐕 [Dog Breed Computer Vision](https://github.com/Eng-yousef-khalaf/dog-vision-project)
+Deep learning multi-class image classification model built with TensorFlow, Keras, and OpenCV.
+- **Key Techniques**: Convolutional Neural Networks (CNN), Transfer Learning, Image Preprocessing & Augmentation.
+- **Deliverables**: 120+ breed classification with high Top-5 test accuracy.
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### ⚙️ Data Engineering
-
-<img src="https://img.shields.io/badge/PostgreSQL-12B886?style=flat-square"/>
-<img src="https://img.shields.io/badge/ETL%20%26%20Pipelines-12B886?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Docker-12B886?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-12B886?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Data%20Warehousing-12B886?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/APIs-12B886?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scalable%20Solutions-12B886?style=flat-square"/>
+### 🚜 [Bulldozer Auction Price Prediction](https://github.com/Eng-yousef-khalaf/bulldozer-price-predition-project)
+Time-series equipment price forecasting and regression modeling from historical auction transactions.
+- **Key Techniques**: Time-Series Feature Engineering, Date Extraction, Random Forest Regressor, RMSLE evaluation.
+- **Deliverables**: Accurate price benchmarks and feature importance rankings.
 
 </td>
 </tr>
@@ -101,221 +112,51 @@ I focus on building projects that solve real problems rather than working only w
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=65&text=%F0%9F%9B%A0%EF%B8%8F%20Technology%20Stack&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:3b82f6&height=55&text=%F0%9F%9B%A0%EF%B8%8F%20Technical%20Skills%20Matrix&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-### 💻 Languages & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,sql,postgres" />
-</p>
-
-### 📊 Data Science & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-### 📈 BI & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### ⚙️ Development & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,jupyter,react,nodejs,mongodb" />
-</p>
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Data Engines & Python** | `Python`, `Polars (Arrow Vectorized)`, `Pandas`, `NumPy`, `Pydantic`, `Scikit-Learn` |
+| **Databases & Warehousing** | `SQL (PostgreSQL, SQLite)`, `Kimball Star Schema`, `Fact & Dimension Modeling`, `Analytical Views` |
+| **Web Scraping & Ingestion** | `Multi-Source Scraping`, `BeautifulSoup`, `Requests (Session & Headers)`, `Exponential Backoff Retries` |
+| **BI, M365 & Reporting** | `Microsoft Power BI`, `DAX Measures`, `Microsoft Power Automate`, `SharePoint Lists`, `Streamlit`, `Plotly`, `Excel` |
+| **Automation, Linux & CI/CD** | `Linux & Bash Shell Scripting`, `GitHub Actions CI/CD`, `Pytest (100% Coverage)`, `Docker`, `Git` |
+| **Analytics & Financial Domain** | `Valuation Multiples (EV/EBITDA, EV/Rev)`, `Statistical Quartiles (Median, P25, P75, IQR)`, `Outlier Z-Scores`, `Entity Resolution` |
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=65&text=%E2%AD%90%20Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:3b82f6&height=55&text=%F0%9F%93%88%20GitHub%20Activity%20%26%20Metrics&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eng-yousef-khalaf&show_icons=true&count_private=true&bg_color=0f172a&title_color=38bdf8&icon_color=06b6d4&text_color=cbd5e1&border_color=3b82f6&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-yousef-khalaf&layout=compact&langs_count=8&bg_color=0f172a&title_color=38bdf8&text_color=cbd5e1&border_color=3b82f6&hide_border=false" />
 
-### ❤️ Heart Disease Prediction
+<br><br>
 
-Machine Learning classification project using Python and Scikit-learn to analyze health-related features and predict heart disease risk.
-
-**Focus:**
-Data Analysis · Classification · Random Forest · Model Evaluation
-
-<a href="https://github.com/Eng-yousef-khalaf/heart-disease-prediction-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=heart-disease-prediction-project&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_color=667eea&hide_border=false" />
-</a>
-
-</td>
-<td width="50%">
-
-### 📊 LingoGo
-
-A smart learning analytics platform that analyzes learner performance using presentations, quizzes, topics, and other learning activity.
-
-**Focus:**
-Machine Learning · Data Analysis · Python · Power BI
-
-<a href="https://github.com/Eng-yousef-khalaf/LingoGo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=LingoGo&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_color=667eea&hide_border=false" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🐕 Dog Breed Classification
-
-Computer vision project using TensorFlow/Keras and OpenCV to classify more than 120 dog breeds.
-
-**Focus:**
-Deep Learning · CNN · Computer Vision · Image Processing
-
-<a href="https://github.com/Eng-yousef-khalaf/dog-vision-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=dog-vision-project&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_color=667eea&hide_border=false" />
-</a>
-
-</td>
-<td width="50%">
-
-### 🚜 Bulldozer Price Prediction
-
-Machine learning regression project using Random Forest to predict bulldozer prices from historical machine data.
-
-**Focus:**
-Regression · Feature Engineering · Random Forest · Python
-
-<a href="https://github.com/Eng-yousef-khalaf/bulldozer-price-prediction-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-yousef-khalaf&repo=bulldozer-price-prediction-project&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_color=667eea&hide_border=false" />
-</a>
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-yousef-khalaf&background=0f172a&border=3b82f6&stroke=38bdf8&ring=06b6d4&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff&hide_border=false" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=65&text=%F0%9F%94%A8%20Currently%20Building&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
-
-<table>
-<tr>
-<td width="50%">
-
-### 💰 Falas
-
-A real-world data-driven application currently being developed as part of my professional portfolio.
-
-**Coming soon**
-
-</td>
-<td width="50%">
-
-### 🏫 School Management System
-
-A complete data management platform for managing students, teachers, classes, subjects, attendance, grades, and academic records.
-
-**Coming soon**
-
-</td>
-</tr>
-</table>
-
-> 🚧 These projects will be added here as they reach their portfolio-ready versions.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=65&text=%F0%9F%93%88%20GitHub%20Statistics&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:3b82f6&height=55&text=%F0%9F%93%AB%20Let's%20Connect&fontSize=22&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eng-yousef-khalaf&show_icons=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&border_color=667eea&hide_border=false" />
+**Open to International Data Analyst, Analytics Engineering & Data Pipeline Opportunities**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-yousef-khalaf&layout=compact&langs_count=8&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_color=667eea&hide_border=false" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-yousef-khalaf&background=0d1117&border=667eea&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=764ba2&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&hide_border=false" />
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=65&text=%F0%9F%8E%AF%20Current%20Focus&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
-
-I'm currently expanding my skills from Data Science and Machine Learning toward **Data Engineering and production-ready data systems**.
-
-### 📚 Currently Learning
-
-- SQL & PostgreSQL
-- Data Engineering
-- ETL Pipelines
-- Docker
-- Cloud Data Platforms
-- Data Warehousing
-- Power BI & Advanced DAX
-- Production Machine Learning
-
-My goal is to build complete data solutions — from **raw data → pipelines → analysis → machine learning → dashboards → useful applications**.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=65&text=%F0%9F%92%A1%20My%20Approach&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
-
-I believe good data work is not only about building a model.
-
-It starts with:
-
-<div align="center">
-
-**Raw Data**  →  **Clean & Validate**  →  **Understand**  →  **Analyze**  →  **Model**  →  **Visualize**  →  **Deploy / Use**  →  **Create Real Value**
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=65&text=%F0%9F%93%AB%20Let's%20Connect&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
-
-<div align="center">
-
-<a href="https://github.com/Eng-yousef-khalaf">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://linkedin.com/in/yousef-khalafb1441326b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Yousef_Khalaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/yousef-khalaf-b1441326b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:yousef2001kh44@gmail.com">
+  <img src="https://img.shields.io/badge/Email-yousef2001kh44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-💬 **Open to Data & Machine Learning Opportunities**
-
-Data Analysis · Machine Learning · Power BI · Data Engineering
+*Building robust pipelines. Enforcing data integrity. Delivering actionable insights.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-*Building with data. Learning continuously. Creating practical solutions.*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=110&section=footer" width="100%"/>
